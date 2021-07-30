@@ -1,0 +1,38 @@
+{
+  "identifier" : "4FEF8454",
+  "nonRenewingSubscriptions" : [
+
+  ],
+  "products" : [
+    {
+      "displayPrice" : "399.99",
+      "familyShareable" : false,
+      "internalID" : "0149678C",
+      "localizations" : [
+        {
+          "description" : "Purchase Apple Watch Serires 6",
+          "displayName" : "Apple Watch",
+          "locale" : "en_US"
+        },
+        {
+          "description" : "Il tuo acquisto: Apple Watch Series 6",
+          "displayName" : "Apple Watch",
+          "locale" : "it"
+        }
+      ],
+      "productID" : "com.apple.watch_new",
+      "referenceName" : "Apple Watch",
+      "type" : "NonConsumable"
+    }
+  ],
+  "settings" : {
+
+  },
+  "subscriptionGroups" : [
+
+  ],
+  "version" : {
+    "major" : 1,
+    "minor" : 1
+  }
+}
